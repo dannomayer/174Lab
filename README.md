@@ -7,7 +7,7 @@
 #### Proposed Solution
 create a website students can go to that allows them to submit a question for a specific lab.
         
-######functionality of site for TA's:           
+##### functionality of site for TA's:           
 - create a lab event for a specific lab section on a specific day
 - Be alerted when a certain question receives more than 2 '+1's', which are when other students see a question already posted
 and realize they have the same question
