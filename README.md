@@ -5,8 +5,11 @@
 
 
 #### Proposed Solution
-create a website students can go to that allows them to submit a question for a specific lab.
-        
+create a web based application which allows students to submit a question for a specific lab and TA's to see submitted questions and the order in which they were submitted. The application should meet the following requirements:
+- web based
+- runs on linux systems
+- works on firefox and chrome     
+
 ###### functionality of site for TA's:           
 - create a lab event for a specific lab section on a specific day
 - Be alerted when a certain question receives more than 2 '+1's', which are when other students see a question already posted
@@ -22,3 +25,6 @@ and realize they have the same question
 #### Actors
 - Users: Students and TA's
 - Beneficiaries: Students and TA's
+
+
+
