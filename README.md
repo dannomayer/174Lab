@@ -4,6 +4,7 @@
  Students are often stuck in lab waiting for the TA to help them with something. Often times, the student's question can be answered in a minute or two but there are so many other students with questions that the TA is not able to get to a student for 10 or 15 minutes, if not longer. Another related problem is that TA's are unable to track the order in which students generate questions and some students are skipped unfairly. The current method of raising your hand for 10 minutes and waiting for the TA to answer a question that he or she has probably already answered to someone else is ineffeient, unfair, and is capable of being improved through software engineering.
 
 
+
 #### Proposed Solution
 create a web based application which allows students to submit a question for a specific lab and TA's to see submitted questions and the order in which they were submitted. The application should meet the following requirements:
 - web based
